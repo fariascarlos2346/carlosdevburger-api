@@ -10,5 +10,8 @@
     "name": "Carlos Henrique",
     "url": "https://github.com/fariascarlos2346"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
