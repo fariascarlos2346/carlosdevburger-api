@@ -5,3 +5,7 @@
   Estatando Nodemom e Sucrase, rodando o projeto com 'yarn dev' 
   Padronizando do código com Eslint + Prettier, conhecimento em MVC além de conceitos sobre Docker, estalando e criando o Primeiro Container Docker.
 </p>
+<p>
+  Validado dados do Usuários com o Yup, dizendo quais erros o usuário esta comentendo ou em qual campo, não deixando passar Email duplicado ou Invalido.
+  
+</p>
