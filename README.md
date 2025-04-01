@@ -10,5 +10,7 @@
   Criando usuário no Banco e validando as informações de Id, Nome, Email, Password e Admin.
 </p>
 <p>
-  Já criamos Tabela de Usuários, Models e as atenticações de Usuários e suas Validações
+  Já criamos Tabela de Usuários, Models e as altenticações de Usuários e suas Validações. 
+  Criamos a tabela ProductController e estalando a biblioteca Multer.
+  
 </p>
