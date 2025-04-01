@@ -8,5 +8,7 @@
 <p>
   Validado dados do Usuários com o Yup, dizendo quais erros o usuário esta comentendo ou em qual campo, não deixando passar Email duplicado ou Invalido.
   Criando usuário no Banco e validando as informações de Id, Nome, Email, Password e Admin.
-  
+</p>
+<p>
+  Já criamos Tabela de Usuários, Models e as atenticações de Usuários e suas Validações
 </p>
