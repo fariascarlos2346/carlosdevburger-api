@@ -12,5 +12,7 @@
 <p>
   Já criamos Tabela de Usuários, Models e as altenticações de Usuários e suas Validações. 
   Criamos a tabela ProductController e estalando a biblioteca Multer.
-  
+</p>
+<p>
+  Criamos um Objeto de configuração apartir do Multer e seu caminho 'file', nas rotas importamos o multer e suas configurações e o upload unico para cada imagem gerrada e/ou Produto.
 </p>
