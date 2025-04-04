@@ -14,5 +14,7 @@
   Criamos a tabela ProductController e estalando a biblioteca Multer.
 </p>
 <p>
+  Model do produto Criada, suas propriedades e criamos um campo Virtual, salvos no Banco de Dados.
   Criamos um Objeto de configuração apartir do Multer e seu caminho 'file', nas rotas importamos o multer e suas configurações e o upload unico para cada imagem gerrada e/ou Produto.
+  No banco não fica imagem, apenas o caminha para nos espormos na URL.
 </p>
